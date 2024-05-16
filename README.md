@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="right" alt="Coding" width="400" src="http://images6.fanpop.com/image/photos/37200000/Baymax-big-hero-6-37208302-500-500.gif">
